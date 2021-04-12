@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\obj\Debug\netcoreapp2.1\Laboratorio 2.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\obj\Debug\netcoreapp2.1\Laboratorio 2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\obj\Debug\netcoreapp2.1\Laboratorio 2.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\obj\Debug\netcoreapp2.1\Laboratorio 2.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\bin\Debug\netcoreapp2.1\Laboratorio 2.deps.json
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\bin\Debug\netcoreapp2.1\Laboratorio 2.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\bin\Debug\netcoreapp2.1\Laboratorio 2.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\bin\Debug\netcoreapp2.1\Laboratorio 2.dll
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\bin\Debug\netcoreapp2.1\Laboratorio 2.pdb
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\obj\Debug\netcoreapp2.1\Laboratorio 2.dll
+C:\Users\USUARIO\Desktop\Arquitectura\Tareas\Repositorio Erick Suarez\Auto Ventas\Laboratorio 2\Laboratorio 2\obj\Debug\netcoreapp2.1\Laboratorio 2.pdb
